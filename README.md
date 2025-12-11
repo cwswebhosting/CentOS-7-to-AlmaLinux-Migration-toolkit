@@ -204,6 +204,4 @@ postqueue -p                # Check mail queue
 
 ---
 
-## Need Help?
 
-Run the audit script and share the output - I can help create custom scripts for any special software your server needs!
