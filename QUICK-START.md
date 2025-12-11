@@ -188,7 +188,8 @@ mysql -e "SELECT User, Host FROM mysql.user;"
 - **AlmaLinux Forums**: https://forums.almalinux.org/
 - **Virtualmin Forums**: https://forum.virtualmin.com/
 - **ELevate Docs**: https://wiki.almalinux.org/elevate/
-
+- **Need VPS?**: https://ciscowebservers.com/linux-vps-ssd-hosting-packages/
+- **Nedd Dedicated servers?**: https://ciscowebservers.com/linux-dedicated-servers-hosting-packages/
 ---
 
 ## ✅ Pre-Migration Checklist
